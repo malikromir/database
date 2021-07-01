@@ -1,6 +1,7 @@
-[
-  { "id":1,
-    "name":"John Doe",
-    "role":"SDE"
-  }
-]
+{
+	"employees": [{
+		"id": 1,
+		"name": "John Doe",
+		"role": "SDE"
+	}]
+}
