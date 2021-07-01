@@ -1,17 +1,18 @@
 {
 	"employees": [{
-		"id": 1,
-		"name": "John Doe",
-		"role": "SDE"
-	},
-	{
-      "id": 2,
-      "name": "Joe Root",
-      "role": "DevOps"
-    },
-    {
-      "id": 3,
-      "name": "Dr. Doctor",
-      "role": "Doctor"
-    }]
+			"id": 1,
+			"name": "John Doe",
+			"role": "SDE"
+		},
+		{
+			"id": 2,
+			"name": "Joe Root",
+			"role": "DevOps"
+		},
+		{
+			"id": 3,
+			"name": "Dr. Doctor",
+			"role": "Doctor"
+		}
+	]
 }
